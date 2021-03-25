@@ -7,7 +7,7 @@ Subject|O/X|Subject|O/X|Subject|O/X
 --|:--:|--|:--:|--|:--:
 HTML|O|CSS|O|JavaScript|O
 Git|O|Github|O|SCSS|O
-ReactJS|O|TypeScript|X|VueJS|X
-Angular|X|Webpack|X|NextJS|X
-NestJS|X|Jest|X|Svelte|X
-GraphQL|X|NodeJS|X|MongoDB|X
+ReactJS|O|NodeJS|O|TypeScript|X
+VueJS|X|Angular|X|Webpack|X
+NextJS|X|NestJS|X|Jest|X
+Svelte|X|GraphQL|X|MongoDB|X
