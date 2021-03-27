@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=_hexcode&height=300&section=header&text=Zipper_&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=#ffffff&height=300&section=header&text=Zipper_&fontSize=90)
 
 Hello! I'm Zipper_ and Welcome to my Github Profile<br/>
 I am a student who learning coding
