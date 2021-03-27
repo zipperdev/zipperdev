@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=#FD9F28&height=300&section=header&text=Zipper_&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color="#FD9F28"&height=300&section=header&text=Zipper_&fontSize=90)
 
 Hello! I'm Zipper_ and Welcome to my Github Profile<br/>
 I am a student who learning coding
@@ -13,4 +13,4 @@ VueJS|X|Angular|X|Webpack|X
 NextJS|X|NestJS|X|Jest|X
 Svelte|X|GraphQL|X|MongoDB|X
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=#FD9F28&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color="#FD9F28"&height=100&section=footer)
