@@ -12,3 +12,5 @@ ReactJS|O|NodeJS|O|TypeScript|X
 VueJS|X|Angular|X|Webpack|X
 NextJS|X|NestJS|X|Jest|X
 Svelte|X|GraphQL|X|MongoDB|X
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=50&section=footer)
