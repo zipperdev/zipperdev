@@ -8,9 +8,9 @@ Subject|O/X|Subject|O/X|Subject|O/X
 --|:--:|--|:--:|--|:--:
 HTML|O|CSS|O|JavaScript|O
 Git|O|Github|O|SCSS|O
-ReactJS|O|NodeJS|O|TypeScript|X
-VueJS|X|Angular|X|Webpack|X
-NextJS|X|NestJS|X|Jest|X
-Svelte|X|GraphQL|X|MongoDB|X
+ReactJS|O|NodeJS|O|MongoDB|O
+TypeScript|X|VueJS|X|Angular|X
+Webpack|X|NextJS|X|NestJS|X
+Jest|X|Svelte|X|GraphQL|X
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=footer)
