@@ -3,6 +3,9 @@
 Hello! I'm Zipper_ and Welcome to my Github Profile<br/>
 I am a student who learning coding
 
+### What I Doing Now
+- ##### Renovating my blog
+
 ### What Can I Do
 Subject|O/X|Subject|O/X|Subject|O/X
 --|:--:|--|:--:|--|:--:
