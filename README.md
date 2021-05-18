@@ -5,6 +5,8 @@ I am a student who learning coding
 
 ### What I Doing Now
 - ##### Renovating my blog
+- ##### Learning MERN Stack
+- ##### Cloning twitter with MERN Stack
 
 ### What Can I Do
 Subject|O/X|Subject|O/X|Subject|O/X
