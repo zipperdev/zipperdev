@@ -33,3 +33,10 @@ I am a student who learning coding
 !["Netlify"](https://img.shields.io/badge/Netlify-00C7B7?style=round&logo=netlify&logoColor=white&logoWidth=20)
 !["Heroku"](https://img.shields.io/badge/Heroku-430098?style=round&logo=heroku&logoColor=white&logoWidth=20)
 !["AWS"](https://img.shields.io/badge/Amazon_AWS-232F3E?style=round&logo=amazon-aws&logoColor=white&logoWidth=20)
+
+___
+
+### Dialog
+
+##### Meet Useful Hooks for React <a href="https://www.npmjs.com/org/ziphooks" target="_blank">Ziphooks 1.0<a/>
+##### See Small Example Blockchain with TypeScript <a href="https://github.com/zipperdev/zypechain" target="_blank">Zypechain<a/>
