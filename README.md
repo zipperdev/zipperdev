@@ -6,6 +6,7 @@ Hello! I'm zipperdev and Welcome to my Github Profile<br/>
 I am a student who learning coding
 
 ### What I Doing Now
+- ##### Learning NestJS
 - ##### Cloning instagram following course with GraphQL and ReactJS
 
 ### What Can I Do
@@ -17,6 +18,7 @@ I am a student who learning coding
 !["StyledComponents"](https://img.shields.io/badge/styled--components-DB7093?style=round&logo=styled-components&logoColor=white&logoWidth=20)
 !["MaterialUI"](https://img.shields.io/badge/Material--UI-0081CB?style=round&logo=material-ui&logoColor=white&logoWidth=20)
 !["JavaScript"](https://img.shields.io/badge/JavaScript-323330?style=round&logo=javascript&logoColor=F7DF1E&logoWidth=20)
+!["TypeScript"](https://img.shields.io/badge/TypeScript-323330?style=round&logo=typescript&logoColor=3178C6&logoWidth=20)
 !["NodeJS"](https://img.shields.io/badge/Node.js-43853D?style=round&logo=node.js&logoColor=white&logoWidth=20)
 !["Python"](https://img.shields.io/badge/Python-14354C?style=round&logo=python&logoColor=white&logoWidth=20)
 !["React"](https://img.shields.io/badge/React-20232A?style=round&logo=react&logoColor=61DAFB&logoWidth=20)
