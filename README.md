@@ -36,7 +36,7 @@ I am a student who learning coding
 
 ___
 
-### Dialog
+## Dialog
 
-##### Meet _Useful_ Hooks for React <a href="https://www.npmjs.com/org/ziphooks" target="_blank">Ziphooks 1.0<a/>
-##### See Small Example _Blockchain_ with TypeScript <a href="https://github.com/zipperdev/zypechain" target="_blank">Zypechain<a/>
+#### Meet _Useful_ Hooks for React <a href="https://www.npmjs.com/org/ziphooks" target="_blank">Ziphooks 1.0<a/>
+#### See Small Example _Blockchain_ with TypeScript <a href="https://github.com/zipperdev/zypechain" target="_blank">Zypechain<a/>
