@@ -15,7 +15,7 @@ I am a student who learning coding
 !["CSS3"](https://img.shields.io/badge/CSS3-1572B6?style=round&logo=css3&logoColor=white&logoWidth=20)
 !["SCSS"](https://img.shields.io/badge/Sass-CC6699?style=round&logo=sass&logoColor=white&logoWidth=20)
 !["TailwindCSS"](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=round&logo=tailwind-css&logoColor=white&logoWidth=20)
-!["StyledComponents"](https://img.shields.io/badge/styled--components-DB7093?style=round&logo=styled-components&logoColor=white&logoWidth=20)
+!["StyledComponents"](https://img.shields.io/badge/Styled_Components-DB7093?style=round&logo=styled-components&logoColor=white&logoWidth=20)
 !["MaterialUI"](https://img.shields.io/badge/Material--UI-0081CB?style=round&logo=material-ui&logoColor=white&logoWidth=20)
 !["JavaScript"](https://img.shields.io/badge/JavaScript-323330?style=round&logo=javascript&logoColor=F7DF1E&logoWidth=20)
 !["TypeScript"](https://img.shields.io/badge/TypeScript-323330?style=round&logo=typescript&logoColor=3178C6&logoWidth=20)
