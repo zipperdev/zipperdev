@@ -11,24 +11,16 @@ I am a student who learning coding
 
 ### What Can I Do
 
-- ### Frontend
-  - HTML5
-  - CSS3
-  - JS
-  - NodeJS React
-  - NodeJS React Native
-  - CSS Frameworks
-- ### Backend
-  - JS & TS
-  - NodeJS Express
-  - NodeJS NestJS
-  - NodeJS GraphQL Apollo
-- ### Extras & Deploy
-  - Gulp & Webpack
-  - Ubuntu
-  - AWS S3
-  - Heroku Deploy
-  - Netlify Web Deploy
+#### Web & Native App Services
+
+| Frontend | Backend | Extras & Deploy |
+|--|--|--|
+| HTML5 | JS & TS | Gulp & Webpack |
+| CSS3 | NodeJS Express | Ubuntu |
+| JS | NodeJS NestJS | AWS S3 |
+| NodeJS React | NodeJS GraphQL Apollo | Heroku Deploy |
+| NodeJS React Native | NPM Package | Netlify Web Deploy |
+| CSS Frameworks |  | Domain Sets |
 
 ---
   
