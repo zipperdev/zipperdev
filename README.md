@@ -5,10 +5,6 @@
 Hello! I'm zipperdev and Welcome to my Github Profile<br/>
 I am a student who learning coding
 
-### What I Doing Now
-- ##### Learning NestJS
-- ##### Cloning instagram following course with GraphQL and ReactJS
-
 ### What Can I Do
 
 #### Web & Native App Services
