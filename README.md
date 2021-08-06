@@ -14,7 +14,7 @@ I am a student who learning coding
 | JS | NodeJS NestJS | AWS S3 |
 | NodeJS React | NodeJS GraphQL Apollo | Heroku Deploy |
 | NodeJS React Native | NPM Package | Netlify Web Deploy |
-| CSS Frameworks |  | Domain Sets |
+| CSS Frameworks | No Sql & ORM DBs | Domain Sets |
 
 ---
   
