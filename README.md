@@ -1,7 +1,5 @@
 # Zipperdev
 
-<img align="right" alt="Zipperdev's github stats" width="40%" src="https://github-readme-stats.vercel.app/api?username=zipperdev&show_icons=false&disable_animations=true">
-
 Hello! I'm zipperdev and Welcome to my Github Profile<br/>
 I am a student who learning coding
 
