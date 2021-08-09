@@ -3,19 +3,6 @@
 Hello! I'm zipperdev and Welcome to my Github Profile<br/>
 I am a student who learning coding
 
-### What Can I Do
-
-#### Web & Native App Services
-
-| Frontend | Backend | Extras & Deploy |
-|--|--|--|
-| HTML5 | JS & TS | Gulp & Webpack |
-| CSS3 | NodeJS Express | Ubuntu |
-| JS | NodeJS NestJS | AWS S3 |
-| NodeJS React | NodeJS GraphQL Apollo | Heroku Deploy |
-| NodeJS React Native | NPM Package | Netlify Web Deploy |
-| CSS Frameworks | No Sql & ORM DBs | Domain Sets |
-
 ---
   
 ## Board
