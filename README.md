@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&animation=fadeIn&color=ff8c1a&text=Zipperdev&desc=Full-Stack%20Developer&fontColor=ffffff&descSize=30&fontAlign=30&descAlign=75&descAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&animation=fadeIn&color=ff8c1a&text=Zipperdev&desc=Full-Stack%20Developer&fontColor=ffffff&descSize=30&fontAlign=30&descAlign=75&descAlignY=50" />
 
+  <h3>안녕하세요 Hi, there 👋<h3/>
+  
   <div>
     <h3>스킬 Skills 🔨<h3/>
     <div>
@@ -61,4 +63,6 @@
   <br />
     
   <img src="https://github-readme-stats.vercel.app/api?username=zipperdev" />
+    
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=300&animation=fadeIn&color=ff8c1a&text=이만 Bye 👋&desc=Full-Stack%20Developer&fontColor=ffffff&descSize=30&fontAlign=30&descAlign=75&descAlignY=50" />
 </div>
