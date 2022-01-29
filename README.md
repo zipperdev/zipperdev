@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=340&animation=fadeIn&color=ff8c1a&text=Zipperdev&desc=Full-Stack%20Developer&fontColor=ffffff&descSize=20&fontAlign=30&descAlign=75&descAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=340&animation=fadeIn&color=ff8c1a&text=Zipperdev&desc=Full-Stack%20Developer&fontColor=ffffff&descSize=30&fontAlign=30&descAlign=75&descAlignY=50" />
 
   <div>
     <h3>스킬 Skills 🔨<h3/>
@@ -13,12 +13,13 @@
       <img src="https://img.shields.io/badge/-React%20Router-CA4245?logo=reactrouter&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/-NestJs-E0234E?logo=react&logoColor=white&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/-NextJs-000000?logo=react&logoColor=white&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/-NestJs-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/-NextJs-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styledcomponents&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-Pug-A86454?logo=pug&logoColor=white&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white&style=for-the-badge" />
     </div>
     <br />
     <div style="margin-top:10px;">
@@ -35,11 +36,29 @@
       <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-PlanetScale-8467F3?style=for-the-badge" />
       <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-Git-F1502F?logo=git&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
     </div>
   </div>
+   
+  <br />
+    
+  <div>
+    <h3>배우는것 Learning ✍<h3/>
+    <img src="https://img.shields.io/badge/-Cloud%20Flare-F6821F?logo=cloudflare&logoColor=white&style=for-the-badge" />
+  </div>
+  
+  <br />
+    
+  <div>
+    <h3>하는것 Doing 🚀<h3/>
+    <h6>캐럿마켓 클론코딩</h6>
+    <h6>풀스택 Expo 앱 만들기</h6>
+  </div>
+   
+  <br />
     
   <img src="https://github-readme-stats.vercel.app/api?username=zipperdev" />
 </div>
