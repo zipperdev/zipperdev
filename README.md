@@ -3,6 +3,8 @@
 Hello! I'm zipperdev and Welcome to my Github Profile<br/>
 I am a student who learning coding
 
+I Making some AWESOME(maybe) application with React Native and Expo.
+
 ---
   
 ## Board
