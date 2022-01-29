@@ -63,6 +63,8 @@
   <br />
     
   <img src="https://github-readme-stats.vercel.app/api?username=zipperdev" />
+  
+  <br />
     
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=300&animation=fadeIn&color=ff8c1a&text=이만 Bye 👋&desc=Full-Stack%20Developer&fontColor=ffffff&descSize=30&fontAlign=30&descAlign=75&descAlignY=50" />
+  <h3>이만 Bye 👋<h3/>
 </div>
