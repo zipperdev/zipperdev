@@ -12,7 +12,6 @@
       <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/-React%20Router-CA4245?logo=reactrouter&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-NestJs-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" />
