@@ -41,6 +41,7 @@
       <img src="https://img.shields.io/badge/-Git-F1502F?logo=git&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/-Blender-EA7600?logo=blender&logoColor=white&style=for-the-badge" />
     </div>
   </div>
    
