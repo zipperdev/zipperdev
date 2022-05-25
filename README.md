@@ -14,7 +14,6 @@
       <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/-NestJs-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-NextJs-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
@@ -34,8 +33,6 @@
     <div style="margin-top:10px;">
       <p>데브옵스 Dev-Ops</p>
       <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/-PlanetScale-8467F3?style=for-the-badge" />
       <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-Git-F1502F?logo=git&logoColor=white&style=for-the-badge" />
