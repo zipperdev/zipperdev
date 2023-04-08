@@ -33,7 +33,6 @@
     <div style="margin-top:10px;">
       <p>데브옵스 Dev-Ops</p>
       <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-Git-F1502F?logo=git&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white&style=for-the-badge" />
